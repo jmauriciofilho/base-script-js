@@ -1,0 +1,16 @@
+{
+  "name": "base-script-js",
+  "version": "1.0.0",
+  "description": "Script basico para construcao de outros scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Success: everything is OK\" && exit 1",
+    "exec": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "script"
+  ],
+  "author": "Mauricio Pereira",
+  "license": "ISC"
+}
